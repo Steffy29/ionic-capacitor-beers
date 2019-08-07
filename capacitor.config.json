@@ -1,7 +1,7 @@
 {
-  "appId": "io.ionic.starter",
-  "appName": "ionic-capacitor-beers",
+  "appId": "com.surfinfoweb.ioniccapacitorbeers",
+  "appName": "IonicCapacitorBeers",
   "bundledWebRuntime": false,
-  "npmClient": "npm",
+  "npmClient": "yarn",
   "webDir": "www"
 }
